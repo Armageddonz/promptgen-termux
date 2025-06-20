@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # ========= KONFIGURASI =========
-API_KEY="AIzaSyCLcQxub0xm5kRK1CKJpbs4jkONZ2qvHKw"
+API_KEY="GANTI_DENGAN_API_KAMU"
 ENDPOINT="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$API_KEY"
 # ===============================
 
